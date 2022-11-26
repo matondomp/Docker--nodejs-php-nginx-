@@ -1,1 +1,4 @@
-# Docker--nodejs-php-nginx-
+docker pull freitaspedros/laravel
+
+docker pull freitaspedros/nginx
+
